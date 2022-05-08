@@ -1,0 +1,42 @@
+_id: req_b2ffec2e574042fdb52f69612462b786
+type: Request
+parentId: wrk_a14d8313893e4cb7bb245c5cc9957a68
+modified: 1651709157227
+created: 1651709049050
+url: https://accounts.zoho.com/oauth/v2/token
+name: zoho sandbox
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_39b55ad3ef4d4e248b4940d3ccc96d51
+      name: grant_type
+      value: authorization_code
+      description: ""
+    - id: pair_26b8c7b0fc8b4eaf98cc52f39d379442
+      name: client_id
+      value: 1000.VL47HH17TYDNZCVOZOVOTOHYAPNOKA
+      description: ""
+    - id: pair_8f383a43cd0242bd8233754d88725222
+      name: client_secret
+      value: 7014b679293ef3f5b0740549a7ac3d14139957201d
+      description: ""
+    - id: pair_5147f5a24d874ad79cefb15b9d945d14
+      name: code
+      value: 1000.da98a1782a4fca33f8bcbdbd183f3ed7.64e71d99548b86e354d927acb7d9181a
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_9f51126cb19e4eb28a91e1fbb90c86dd
+authentication: {}
+metaSortKey: -1651709049050
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

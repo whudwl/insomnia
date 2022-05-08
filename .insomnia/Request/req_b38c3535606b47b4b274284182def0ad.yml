@@ -1,0 +1,21 @@
+_id: req_b38c3535606b47b4b274284182def0ad
+type: Request
+parentId: wrk_a14d8313893e4cb7bb245c5cc9957a68
+modified: 1651543650745
+created: 1651134993915
+url: https://613ee8d729a634a6d3e55236f18c6420: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@xtmperformance.myshopify.com/admin/api/2021-10//orders/4197691293832.json
+name: one order
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651114528885
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_bae523b7529b47208875931dcad7a33b
+type: Request
+parentId: wrk_a14d8313893e4cb7bb245c5cc9957a68
+modified: 1651632784015
+created: 1651632733671
+url: https://accounts.zoho.com/oauth/v2/token?refresh_token=1000.5fb2b00582798927cf5f79879be53ac1.37a3f5d3137b921a3cb973112ab33bc8&client_id=1000.S5VRX96GB0XBXON8NTNLMYGBITV5SU&client_secret=e20db5c3c0c0f9e8d208549fc819b8cc288cc5f9b3&grant_type=refresh_token
+name: zoho refresh token
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651632733671
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

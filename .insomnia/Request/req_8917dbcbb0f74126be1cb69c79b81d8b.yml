@@ -1,0 +1,21 @@
+_id: req_8917dbcbb0f74126be1cb69c79b81d8b
+type: Request
+parentId: wrk_a14d8313893e4cb7bb245c5cc9957a68
+modified: 1651116835628
+created: 1651114528935
+url: https://613ee8d729a634a6d3e55236f18c6420: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@xtmperformance.myshopify.com/admin/api/2021-10/orders.json?updated_at_min=20220427
+name: list orders
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651114528935
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
